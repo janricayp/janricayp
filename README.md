@@ -1,9 +1,5 @@
 
-<h1 align="left">Hi there 👋</h1>
-
-###
-
-<p align="left">My name is Jan</p>
+<h1 align="left">Hi there 👋, My name is Jan</h1>
 
 ###
 
