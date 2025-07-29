@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi there 👋, My name is Jan</h1>
+<h1 align="left">Hi 👋! My name is Jan, and I'm an Aspiring Software Engineer</h1>
 
 ###
 
@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">💻  Aspiring Software Engineer • 📚 Lifelong Learner<br>🎓 I'm currently studying **Computer Science**.<br>🛠️ I’m working on sharpening my skills in **Python, Javascript, PHP, and SQL**.</p>
+<p align="left">🎓 I'm currently studying **Computer Science**.<br>🛠️ I’m working on sharpening my skills in **Python, Javascript, PHP, and SQL**.</p>
 
 ###
 
