@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi 👋! My name is Jan, and I'm an Aspiring Software Engineer</h1>
+<h1 align="left">Hi 👋! My name is Jan, an Aspiring Software Engineer</h1>
 
 ###
 
